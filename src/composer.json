@@ -1,0 +1,5 @@
+{
+    "name": "beedoo/phpad",
+    "description": "PHP AAD connector",
+    "require": {}
+}
